@@ -1,0 +1,34 @@
+{
+  "name": "valitalor",
+  "version": "1.0.0",
+  "description": "Italian localized validation library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavallom/valitalor.git"
+  },
+  "keywords": [
+    "italian",
+    "validator",
+    "codice",
+    "fiscale",
+    "partita",
+    "iva",
+    "iban",
+    "targa",
+    "auto",
+    "moto"
+  ],
+  "author": "Massimo Cavallo <m.cavallo@restful.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cavallom/valitalor/issues"
+  },
+  "homepage": "https://github.com/cavallom/valitalor#readme"
+}
